@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="CCTV1",group-title="洛阳酒店",CCTV1-综合
+http://61.163.181.78:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV2",group-title="洛阳酒店",CCTV2-财经
+http://61.163.181.78:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV3",group-title="洛阳酒店",CCTV3-综艺
+http://61.163.181.78:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV4",group-title="洛阳酒店",CCTV4-国际
+http://61.163.181.78:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV5",group-title="洛阳酒店",CCTV5+体育赛事
+http://61.163.181.78:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV6",group-title="洛阳酒店",CCTV-6
+http://61.163.181.78:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV7",group-title="洛阳酒店",CCTV7-军农
+http://61.163.181.78:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV8",group-title="洛阳酒店",CCTV-8
+http://61.163.181.78:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV9",group-title="洛阳酒店",CCTV9-纪录
+http://61.163.181.78:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV10",group-title="洛阳酒店",CCTV10-科教
+http://61.163.181.78:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV11",group-title="洛阳酒店",CCTV-11
+http://61.163.181.78:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV12",group-title="洛阳酒店",CCTV12-社会与法
+http://61.163.181.78:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV13",group-title="洛阳酒店",CCTV-13
+http://61.163.181.78:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV14",group-title="洛阳酒店",CCTV14-少儿
+http://61.163.181.78:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="CCTV15",group-title="洛阳酒店",CCTV-15
+http://61.163.181.78:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="中国教育",group-title="洛阳酒店",中国教育
+http://61.163.181.78:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="河南卫视",group-title="洛阳酒店",河南卫视高清
+http://61.163.181.78:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="河南都市",group-title="洛阳酒店",河南都市频道
+http://61.163.181.78:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="河南民生",group-title="洛阳酒店",河南民生频道
+http://61.163.181.78:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="河南法制",group-title="洛阳酒店",河南法制频道
+http://61.163.181.78:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="河南电视剧",group-title="洛阳酒店",河南电视剧频道
+http://61.163.181.78:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="河南新闻",group-title="洛阳酒店",河南新闻频道
+http://61.163.181.78:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="梨园频道",group-title="洛阳酒店",梨园频道
+http://61.163.181.78:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="周口电视台",group-title="洛阳酒店",周口电视台1
+http://61.163.181.78:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="浙江卫视",group-title="洛阳酒店",浙江卫视高清
+http://61.163.181.78:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="湖南卫视",group-title="洛阳酒店",湖南卫视高清
+http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="东方卫视",group-title="洛阳酒店",东方卫视高清
+http://61.163.181.78:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="江苏卫视",group-title="洛阳酒店",江苏卫视高清
+http://61.163.181.78:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="安徽卫视",group-title="洛阳酒店",安徽卫视高清
+http://61.163.181.78:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="北京卫视",group-title="洛阳酒店",北京卫视高清
+http://61.163.181.78:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="深圳卫视",group-title="洛阳酒店",深圳卫视高清
+http://61.163.181.78:85/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="重庆卫视",group-title="洛阳酒店",重庆卫视
+http://61.163.181.78:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="经典电影",group-title="洛阳酒店",经典电影
+http://61.163.181.78:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
